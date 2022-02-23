@@ -1,0 +1,19 @@
+
+        html{
+            font-family: Garamond;
+        }
+        h1 {
+            font-size: xx-large;
+            text-align: center;
+            background-color: pink;
+
+        }
+           p{
+               font-size: 30px;
+               padding:3px;
+           }
+           #resultat{
+   
+            background-color: aquamarine;  
+
+           }
